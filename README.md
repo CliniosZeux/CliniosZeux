@@ -1,3 +1,5 @@
+<img width="1200" height="630" alt="obsidia-og" src="https://github.com/user-attachments/assets/d081fb1d-0f67-456b-a587-c9285911a811" />
+
 # Que onda!, Soy nuvo pero espero aportar algo aqui para lo posteridad
 
 Novato, idealista de sueño, multi proposito
