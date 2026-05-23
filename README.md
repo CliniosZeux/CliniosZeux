@@ -1,9 +1,12 @@
-## Hi there 👋
 
-<!--
-**CliniosZeux/CliniosZeux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Que onda!, Soy nuvo pero espero aportar algo aqui para lo posteridad
 
-Here are some ideas to get you started:
+Novato, idealista de sueño, multi proposito
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CliniosZeux)](https://github.com/CliniosZeux/github-readme-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CliniosZeux&theme=sakura-x&locale=es" alt="GitHub Streak" /></a>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
